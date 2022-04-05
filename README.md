@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+This is a BlogApp where you can login and signUp also form email and password and also upload the image and necessary data and also delete the data..
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
